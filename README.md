@@ -23,7 +23,7 @@ This project demonstrates core MongoDB concepts using Node.js, including:
   mongod
 
 ### 2. Clone the Repository
-- git clone <https://github.com/PLP-MERN-Stack-Development/    week-1-mongodb-fundamentals-assignment-Wangarijane.git>
+- git clone https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-Wangarijane.git
 - cd week-1-mongodb-fundamentals-assignment-Wangarijane
 
 ### 3. Install Node.js Dependencies
