@@ -28,16 +28,19 @@ This project demonstrates core MongoDB concepts using Node.js, including:
 
 ### 3. Install Node.js Dependencies
 Ensure you have Node.js (v18 or higher) installed, then run:
+
 npm install mongodb
 
 
 ### 4. Populate the Database
 Run the script to insert sample book data into the plp_bookstore database:
+
 node insert_books.js
 
 
 ### 5. Run the Queries
 Execute the queries to perform CRUD operations, advanced queries, aggregations, and indexing:
+
 node queries.js
 
 
