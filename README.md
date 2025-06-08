@@ -23,21 +23,24 @@ This project demonstrates core MongoDB concepts using Node.js, including:
   mongod
 
 ### 2. Clone the Repository
-- git clone <https://github.com/PLP-MERN-Stack-Development/    week-1-mongodb-fundamentals-assignment-Wangarijane.git>
+- git clone https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-Wangarijane.git
 - cd week-1-mongodb-fundamentals-assignment-Wangarijane
 
 ### 3. Install Node.js Dependencies
 Ensure you have Node.js (v18 or higher) installed, then run:
+
 npm install mongodb
 
 
 ### 4. Populate the Database
 Run the script to insert sample book data into the plp_bookstore database:
+
 node insert_books.js
 
 
 ### 5. Run the Queries
 Execute the queries to perform CRUD operations, advanced queries, aggregations, and indexing:
+
 node queries.js
 
 
